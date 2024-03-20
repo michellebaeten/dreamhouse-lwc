@@ -6,7 +6,7 @@ public class TestPropertyController {
             properties.add(
                 new Property__c(
                     Title__c = 'Name ' + i,
-                    Price__c = 20000,
+                    Price__c = 30000,
                     Beds__c = 3,
                     Baths__c = 3
                 )
