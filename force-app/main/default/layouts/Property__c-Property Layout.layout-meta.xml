@@ -39,6 +39,10 @@
                 <behavior>Edit</behavior>
                 <field>Energy_Rating__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Swimming_pool__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
